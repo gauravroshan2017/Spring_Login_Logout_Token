@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:11:38:36 +0530] "GET /SpringMVCHibernateManyToManyCRUDExample HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:11:38:36 +0530] "GET /SpringMVCHibernateManyToManyCRUDExample/ HTTP/1.1" 302 - http-bio-8080-exec-2 118
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:11:38:38 +0530] "GET /SpringMVCHibernateManyToManyCRUDExample/login HTTP/1.1" 500 8506 http-bio-8080-exec-3 1546
+0:0:0:0:0:0:0:1 - - [22/Aug/2017:11:38:39 +0530] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
